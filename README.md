@@ -4,7 +4,7 @@
 🚀 ** 💻 Software Developer | Java & Python Enthusiast | Open Source Contributor | Always learning new tech
   
 💡 I love building projects that solve real-world problems and learning new technologies along the way.  
-
+![Python ML GIF](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
 ---
 
 ## 🔭 What I’m Working On 
