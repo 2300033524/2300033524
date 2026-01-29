@@ -1,4 +1,5 @@
-![Python ML GIF](https://giphy.com/github-universe-2024)
+![GitHub Universe 2024](https://media.giphy.com/media/EXAMPLE/giphy.gif)
+
 # Hi, I'm Lucky Sharma 👋
 
 🚀 ** 💻 Software Developer | Java & Python Enthusiast | Open Source Contributor | Always learning new tech
