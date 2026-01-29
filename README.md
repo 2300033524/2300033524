@@ -1,4 +1,4 @@
-![GitHub Universe 2024](https://giphy.com/github-universe-2024)
+ ![Python & ML GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3dhOXhvam85czluejVuYjk3eTFzM2FxbXBleHQxZnZhdmIya205eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LKvHJSPgCj4BjF1F5e/giphy.gif)
 
 
 # Hi, I'm Lucky Sharma 👋
