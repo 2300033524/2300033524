@@ -1,10 +1,10 @@
-
+[Python ML GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3E3d2tlNDY4Z2N3MWF2bDdvd2J2MG1wMmExYm9jM3J0Nmh4cTZ0biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GwtfUx2P2HnvByDZdg/giphy.gif)  
 # Hi, I'm Lucky Sharma 👋
 
 🚀 ** 💻 Software Developer | Java & Python Enthusiast | Open Source Contributor | Always learning new tech
   
 💡 I love building projects that solve real-world problems and learning new technologies along the way.  
-![React GIF](https://media.giphy.com/media/26tOZ42Mg6pbTUPHW/giphy.gif)
+
 ---
 
 ## 🔭 What I’m Working On 
