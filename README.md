@@ -1,4 +1,5 @@
-![GitHub Universe 2024](https://media.giphy.com/media/EXAMPLE/giphy.gif)
+![GitHub Universe 2024](https://giphy.com/github-universe-2024)
+
 
 # Hi, I'm Lucky Sharma 👋
 
